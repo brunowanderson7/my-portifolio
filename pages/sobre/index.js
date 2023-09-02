@@ -148,7 +148,7 @@ const About = () => {
                     {
                       item.icons?.map((icon, iconIndex) => {
                         return (
-                          <div className='text-2xl text-white'>{icon}</div>
+                          <div key={iconIndex} className='text-2xl text-white'>{icon}</div>
                         )
                       })
                     }
