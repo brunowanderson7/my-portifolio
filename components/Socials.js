@@ -15,7 +15,7 @@ const Socials = () => {
       <Link href={'https://www.linkedin.com/in/bruno-wanderson'} className="hover:text-accent transition-all duration-300" >
         <RiLinkedinLine />
       </Link>
-      <Link href={'https://api.whatsapp.com/send?phone=5555899944179&text=Ol%C3%A1.'} className="hover:text-accent transition-all duration-300" >
+      <Link href={'https://api.whatsapp.com/send?phone=5589994417960&text=Ol%C3%A1.'} className="hover:text-accent transition-all duration-300" >
         <RiWhatsappLine />
       </Link>
     </div>
